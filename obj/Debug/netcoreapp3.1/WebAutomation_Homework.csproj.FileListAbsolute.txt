@@ -98,3 +98,4 @@ C:\Users\User\Desktop\TUTA\Paskaitos\09 WEB Automation\WebAutomation_Homework\ob
 C:\Users\User\Desktop\TUTA\Paskaitos\09 WEB Automation\WebAutomation_Homework\obj\Debug\netcoreapp3.1\WebAutomation_Homework.pdb
 C:\Users\User\Desktop\TUTA\Paskaitos\09 WEB Automation\WebAutomation_Homework\obj\Debug\netcoreapp3.1\WebAutomation_Homework.genruntimeconfig.cache
 C:\Users\User\Desktop\TUTA\Paskaitos\09 WEB Automation\WebAutomation_Homework\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\User\Desktop\TUTA\Paskaitos\09 WEB Automation\WebAutomation_Homework\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll

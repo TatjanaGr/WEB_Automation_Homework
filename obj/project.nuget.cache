@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "J+HzM3iRCJBr5IrL8ndKhZdLtVzXhsXevvkMlskiC7ikuWspHsY9QlRvkjhHObCk2CTJMV6aix2YCImvp9RGkw==",
+  "dgSpecHash": "WPSsMUSz9w47rot32eIEAg/sX479mFnWwwAlx8iMOncZ8oDIx6JSid/LEPf+2Gw1+LCWmyt4QGqQd2KO8u+pPw==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\TUTA\\Paskaitos\\09 WEB Automation\\WebAutomation_Homework\\WebAutomation_Homework.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
